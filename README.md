@@ -1,6 +1,6 @@
 # SQL_Project_Music_Store_Analysis
 
-SQL project to analyze online music store data
+
 
 This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
 
@@ -16,7 +16,7 @@ This project is for beginners and will teach you how to analyze the music playli
 * "SQL QUICK START GUIDE" WRITTEN BY "WALTER START"
 
 
-# SQL PROJECT- MUSIC STORE DATA ANALYSIS
+## Questions related to Music Store Data;
   
 
 1. Who is the senior most employee based on job title?
